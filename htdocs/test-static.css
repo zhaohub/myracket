@@ -1,0 +1,19 @@
+body {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+p { font-family: sans-serif }
+
+a { font-size:large}
+
+h1 { color: green }
+
+h2 { font-size: small }
+
+span.hot { color: pink }
+.content {background-color:#e3dadb;height:70px;}
+.post { border: 1px solid;color:green;padding:5px 5px;margin:5px 5px;width:400px}
+.posts { background-color: white}
+.comments { font-size: small }
+
