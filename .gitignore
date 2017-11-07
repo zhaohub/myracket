@@ -3,6 +3,7 @@
 .#*.ss
 
 *.scm~
+*.rkt~
 *.scm#*
 .#*.scm
 compiled
